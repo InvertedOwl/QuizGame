@@ -1,0 +1,26 @@
+{
+  "1": {
+    "correct": "a",
+    "question": "Define derek",
+    "a": "Answer a",
+    "b": "Answer b",
+    "c": "Answer c",
+    "d": "Answer d"
+  },
+  "2": {
+    "correct": "b",
+    "question": "Define derek but fancy",
+    "a": "Answer a",
+    "b": "Answer b",
+    "c": "Answer c",
+    "d": "Answer d"
+  },
+  "3": {
+    "correct": "c",
+    "question": "Define derek but super fancy",
+    "a": "Answer a",
+    "b": "Answer b",
+    "c": "Answer c",
+    "d": "Answer d"
+  }
+}
